@@ -1,4 +1,4 @@
-def ft_harvest_total():
+def ft_harvest_total() -> None:
     harvest1: int = int(input("Day 1 harvest: "))
     harvest2: int = int(input("Day 2 harvest: "))
     harvest3: int = int(input("Day 3 harvest: "))
